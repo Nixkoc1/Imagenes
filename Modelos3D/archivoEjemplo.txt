@@ -1,0 +1,14 @@
+
+3. Escribí algo de contenido si es necesario (aunque sea un comentario).
+4. Bajá y hacé clic en **"Commit new file"**.
+
+💡 Eso creará automáticamente la carpeta `NuevaCarpeta`.
+
+---
+
+### ✅ Opción 2: **Desde tu PC (localmente con Git)**
+Si trabajás con Git en tu computadora, podés crear carpetas fácilmente:
+
+1. En tu proyecto local, creá una carpeta normal:
+```bash
+mkdir NuevaCarpeta
